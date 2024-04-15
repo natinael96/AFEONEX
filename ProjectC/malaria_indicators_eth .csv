@@ -1,0 +1,275 @@
+﻿GHO (CODE),GHO (DISPLAY),YEAR (CODE),REGION (CODE),REGION (DISPLAY),COUNTRY (CODE),COUNTRY (DISPLAY),Numeric,Low,High
+MALARIA_IRS_COVERAGE,Number of people protected from malaria by indoor residual spraying (IRS),2018,AFR,Africa,ETH,Ethiopia,10486854.00000,,
+MALARIA_IRS_COVERAGE,Number of people protected from malaria by indoor residual spraying (IRS),2019,AFR,Africa,ETH,Ethiopia,7782034.00000,,
+MALARIA_IRS_COVERAGE,Number of people protected from malaria by indoor residual spraying (IRS),2020,AFR,Africa,ETH,Ethiopia,6349834.00000,,
+MALARIA_PV_INDIG,Number of indigenous P. vivax malaria cases,2010,AFR,Africa,ETH,Ethiopia,390252.00000,,
+MALARIA_PV_INDIG,Number of indigenous P. vivax malaria cases,2011,AFR,Africa,ETH,Ethiopia,665813.00000,,
+MALARIA_PV_INDIG,Number of indigenous P. vivax malaria cases,2012,AFR,Africa,ETH,Ethiopia,745983.00000,,
+MALARIA_PV_INDIG,Number of indigenous P. vivax malaria cases,2013,AFR,Africa,ETH,Ethiopia,958291.00000,,
+MALARIA_PV_INDIG,Number of indigenous P. vivax malaria cases,2014,AFR,Africa,ETH,Ethiopia,868705.00000,,
+MALARIA_PV_INDIG,Number of indigenous P. vivax malaria cases,2015,AFR,Africa,ETH,Ethiopia,678432.00000,,
+MALARIA_PV_INDIG,Number of indigenous P. vivax malaria cases,2016,AFR,Africa,ETH,Ethiopia,576269.00000,,
+MALARIA_PV_INDIG,Number of indigenous P. vivax malaria cases,2017,AFR,Africa,ETH,Ethiopia,470892.00000,,
+MALARIA_PV_INDIG,Number of indigenous P. vivax malaria cases,2018,AFR,Africa,ETH,Ethiopia,102412.00000,,
+MALARIA_PV_INDIG,Number of indigenous P. vivax malaria cases,2019,AFR,Africa,ETH,Ethiopia,166340.00000,,
+MALARIA_PV_INDIG,Number of indigenous P. vivax malaria cases,2020,AFR,Africa,ETH,Ethiopia,263877.00000,,
+MALARIA_MICR_POS,Number of malaria positive cases by microscopy,2010,AFR,Africa,ETH,Ethiopia,1196829.00000,,
+MALARIA_MICR_POS,Number of malaria positive cases by microscopy,2011,AFR,Africa,ETH,Ethiopia,1480360.00000,,
+MALARIA_MICR_POS,Number of malaria positive cases by microscopy,2012,AFR,Africa,ETH,Ethiopia,1692578.00000,,
+MALARIA_MICR_POS,Number of malaria positive cases by microscopy,2013,AFR,Africa,ETH,Ethiopia,2645454.00000,,
+MALARIA_MICR_POS,Number of malaria positive cases by microscopy,2014,AFR,Africa,ETH,Ethiopia,2118815.00000,,
+MALARIA_MICR_POS,Number of malaria positive cases by microscopy,2015,AFR,Africa,ETH,Ethiopia,1867059.00000,,
+MALARIA_MICR_POS,Number of malaria positive cases by microscopy,2016,AFR,Africa,ETH,Ethiopia,1718504.00000,,
+MALARIA_MICR_POS,Number of malaria positive cases by microscopy,2017,AFR,Africa,ETH,Ethiopia,1530739.00000,,
+MALARIA_MICR_POS,Number of malaria positive cases by microscopy,2018,AFR,Africa,ETH,Ethiopia,962087.00000,,
+MALARIA_MICR_POS,Number of malaria positive cases by microscopy,2019,AFR,Africa,ETH,Ethiopia,904495.00000,,
+MALARIA_MICR_POS,Number of malaria positive cases by microscopy,2020,AFR,Africa,ETH,Ethiopia,1743755.00000,,
+MALARIA_EST_CASES,Estimated number of malaria cases,2001,AFR,Africa,ETH,Ethiopia,13910882.00000,3555000.00000,26450000.00000
+MALARIA_EST_CASES,Estimated number of malaria cases,2017,AFR,Africa,ETH,Ethiopia,6600689.00000,2511000.00000,13700000.00000
+MALARIA_EST_CASES,Estimated number of malaria cases,2000,AFR,Africa,ETH,Ethiopia,15016444.00000,9009000.00000,23740000.00000
+MALARIA_EST_CASES,Estimated number of malaria cases,2002,AFR,Africa,ETH,Ethiopia,12570226.00000,3541000.00000,23260000.00000
+MALARIA_EST_CASES,Estimated number of malaria cases,2003,AFR,Africa,ETH,Ethiopia,13022221.00000,4418000.00000,24510000.00000
+MALARIA_EST_CASES,Estimated number of malaria cases,2004,AFR,Africa,ETH,Ethiopia,12673710.00000,5365000.00000,33330000.00000
+MALARIA_EST_CASES,Estimated number of malaria cases,2015,AFR,Africa,ETH,Ethiopia,12528267.00000,3473000.00000,25030000.00000
+MALARIA_EST_CASES,Estimated number of malaria cases,2016,AFR,Africa,ETH,Ethiopia,8922403.00000,2833000.00000,18580000.00000
+MALARIA_EST_CASES,Estimated number of malaria cases,2008,AFR,Africa,ETH,Ethiopia,6406358.00000,3037000.00000,16430000.00000
+MALARIA_EST_CASES,Estimated number of malaria cases,2010,AFR,Africa,ETH,Ethiopia,10362488.00000,4405000.00000,27230000.00000
+MALARIA_EST_CASES,Estimated number of malaria cases,2005,AFR,Africa,ETH,Ethiopia,8879900.00000,3827000.00000,23720000.00000
+MALARIA_EST_CASES,Estimated number of malaria cases,2006,AFR,Africa,ETH,Ethiopia,8345640.00000,3464000.00000,23760000.00000
+MALARIA_EST_CASES,Estimated number of malaria cases,2007,AFR,Africa,ETH,Ethiopia,7346228.00000,3020000.00000,19960000.00000
+MALARIA_EST_CASES,Estimated number of malaria cases,2009,AFR,Africa,ETH,Ethiopia,8773515.00000,3737000.00000,23360000.00000
+MALARIA_EST_CASES,Estimated number of malaria cases,2011,AFR,Africa,ETH,Ethiopia,10953634.00000,5956000.00000,23750000.00000
+MALARIA_EST_CASES,Estimated number of malaria cases,2012,AFR,Africa,ETH,Ethiopia,13064346.00000,6611000.00000,24140000.00000
+MALARIA_EST_CASES,Estimated number of malaria cases,2013,AFR,Africa,ETH,Ethiopia,15281540.00000,6857000.00000,23400000.00000
+MALARIA_EST_CASES,Estimated number of malaria cases,2014,AFR,Africa,ETH,Ethiopia,14339644.00000,3726000.00000,28070000.00000
+MALARIA_EST_CASES,Estimated number of malaria cases,2018,AFR,Africa,ETH,Ethiopia,2793314.00000,1541000.00000,4176000.00000
+MALARIA_EST_CASES,Estimated number of malaria cases,2019,AFR,Africa,ETH,Ethiopia,2645193.00000,1472000.00000,3979000.00000
+MALARIA_EST_CASES,Estimated number of malaria cases,2020,AFR,Africa,ETH,Ethiopia,4227742.00000,2351000.00000,6366000.00000
+MALARIA_EST_CASES,Estimated number of malaria cases,2021,AFR,Africa,ETH,Ethiopia,3783896.00000,2094000.00000,5673000.00000
+MALARIA_1STLINE_TREATED,Number of malaria cases treated with any first  line tx courses (including artemisinin-based combination therapies (ACTs)),2018,AFR,Africa,ETH,Ethiopia,748601.00000,,
+MALARIA_1STLINE_TREATED,Number of malaria cases treated with any first  line tx courses (including artemisinin-based combination therapies (ACTs)),2019,AFR,Africa,ETH,Ethiopia,1015792.00000,,
+MALARIA_1STLINE_TREATED,Number of malaria cases treated with any first  line tx courses (including artemisinin-based combination therapies (ACTs)),2021,AFR,Africa,ETH,Ethiopia,1144562.00000,,
+MALARIA_1STLINE_TREATED,Number of malaria cases treated with any first  line tx courses (including artemisinin-based combination therapies (ACTs)),2020,AFR,Africa,ETH,Ethiopia,1458804.00000,,
+MALARIA_ACT_TREATED,Number of malaria cases treated with artemisinin-based combination therapies (ACTs),2020,AFR,Africa,ETH,Ethiopia,1197131.00000,,
+MALARIA_ACT_TREATED,Number of malaria cases treated with artemisinin-based combination therapies (ACTs),2021,AFR,Africa,ETH,Ethiopia,1126731.00000,,
+MALARIA_ACT_TREATED,Number of malaria cases treated with artemisinin-based combination therapies (ACTs),2019,AFR,Africa,ETH,Ethiopia,836293.00000,,
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2013,AFR,Africa,ETH,Ethiopia,2645454.00000,,
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2003,AFR,Africa,ETH,Ethiopia,463797.00000,,
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2006,AFR,Africa,ETH,Ethiopia,447780.00000,,
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2016,AFR,Africa,ETH,Ethiopia,1718504.00000,,
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2018,AFR,Africa,ETH,Ethiopia,962087.00000,,
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2014,AFR,Africa,ETH,Ethiopia,2118815.00000,,
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2009,AFR,Africa,ETH,Ethiopia,1036316.00000,,
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2004,AFR,Africa,ETH,Ethiopia,578904.00000,,
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2019,AFR,Africa,ETH,Ethiopia,904495.00000,,
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2017,AFR,Africa,ETH,Ethiopia,1530739.00000,,
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2007,AFR,Africa,ETH,Ethiopia,451816.00000,,
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2010,AFR,Africa,ETH,Ethiopia,1196829.00000,,
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2011,AFR,Africa,ETH,Ethiopia,1480360.00000,,
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2021,AFR,Africa,ETH,Ethiopia,1397151.00000,,
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2001,AFR,Africa,ETH,Ethiopia,392377.00000,,
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2008,AFR,Africa,ETH,Ethiopia,458561.00000,,
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2005,AFR,Africa,ETH,Ethiopia,538942.00000,,
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2015,AFR,Africa,ETH,Ethiopia,1867059.00000,,
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2002,AFR,Africa,ETH,Ethiopia,427795.00000,,
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2012,AFR,Africa,ETH,Ethiopia,1692578.00000,,
+MALARIA_CONF_CASES,Number of confirmed malaria cases,2020,AFR,Africa,ETH,Ethiopia,1743755.00000,,
+MALARIA_EST_DEATHS,Estimated number of malaria deaths,2014,AFR,Africa,ETH,Ethiopia,23862.00000,4680.00000,58100.00000
+MALARIA_EST_DEATHS,Estimated number of malaria deaths,2013,AFR,Africa,ETH,Ethiopia,27024.00000,9410.00000,51000.00000
+MALARIA_EST_DEATHS,Estimated number of malaria deaths,2015,AFR,Africa,ETH,Ethiopia,22125.00000,4560.00000,54000.00000
+MALARIA_EST_DEATHS,Estimated number of malaria deaths,2016,AFR,Africa,ETH,Ethiopia,16302.00000,3750.00000,40600.00000
+MALARIA_EST_DEATHS,Estimated number of malaria deaths,2012,AFR,Africa,ETH,Ethiopia,20863.00000,8010.00000,45200.00000
+MALARIA_EST_DEATHS,Estimated number of malaria deaths,2009,AFR,Africa,ETH,Ethiopia,16218.00000,4440.00000,49500.00000
+MALARIA_EST_DEATHS,Estimated number of malaria deaths,2011,AFR,Africa,ETH,Ethiopia,17276.00000,6380.00000,43700.00000
+MALARIA_EST_DEATHS,Estimated number of malaria deaths,2010,AFR,Africa,ETH,Ethiopia,19144.00000,5200.00000,57400.00000
+MALARIA_EST_DEATHS,Estimated number of malaria deaths,2000,AFR,Africa,ETH,Ethiopia,25208.00000,10300.00000,47700.00000
+MALARIA_EST_DEATHS,Estimated number of malaria deaths,2007,AFR,Africa,ETH,Ethiopia,12705.00000,3410.00000,41200.00000
+MALARIA_EST_DEATHS,Estimated number of malaria deaths,2003,AFR,Africa,ETH,Ethiopia,22799.00000,6520.00000,50200.00000
+MALARIA_EST_DEATHS,Estimated number of malaria deaths,2008,AFR,Africa,ETH,Ethiopia,11109.00000,3430.00000,32000.00000
+MALARIA_EST_DEATHS,Estimated number of malaria deaths,2006,AFR,Africa,ETH,Ethiopia,15221.00000,4200.00000,47500.00000
+MALARIA_EST_DEATHS,Estimated number of malaria deaths,2005,AFR,Africa,ETH,Ethiopia,16956.00000,4990.00000,51500.00000
+MALARIA_EST_DEATHS,Estimated number of malaria deaths,2004,AFR,Africa,ETH,Ethiopia,23844.00000,6820.00000,72600.00000
+MALARIA_EST_DEATHS,Estimated number of malaria deaths,2001,AFR,Africa,ETH,Ethiopia,23352.00000,4980.00000,52600.00000
+MALARIA_EST_DEATHS,Estimated number of malaria deaths,2002,AFR,Africa,ETH,Ethiopia,21590.00000,4730.00000,47000.00000
+MALARIA_EST_DEATHS,Estimated number of malaria deaths,2017,AFR,Africa,ETH,Ethiopia,12460.00000,3420.00000,30400.00000
+MALARIA_EST_DEATHS,Estimated number of malaria deaths,2018,AFR,Africa,ETH,Ethiopia,6500.00000,2330.00000,12800.00000
+MALARIA_EST_DEATHS,Estimated number of malaria deaths,2019,AFR,Africa,ETH,Ethiopia,5708.00000,2060.00000,11100.00000
+MALARIA_EST_DEATHS,Estimated number of malaria deaths,2020,AFR,Africa,ETH,Ethiopia,9424.00000,3410.00000,18500.00000
+MALARIA_EST_DEATHS,Estimated number of malaria deaths,2021,AFR,Africa,ETH,Ethiopia,8041.00000,2920.00000,15800.00000
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2014,AFR,Africa,ETH,Ethiopia,211.41248,54.93404,413.87667
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2013,AFR,Africa,ETH,Ethiopia,231.47756,103.87081,354.52105
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2015,AFR,Africa,ETH,Ethiopia,179.79488,49.84147,359.14276
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2016,AFR,Africa,ETH,Ethiopia,124.61562,39.57081,259.52744
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2012,AFR,Africa,ETH,Ethiopia,203.40935,102.92716,375.92752
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2009,AFR,Africa,ETH,Ethiopia,148.71928,63.34922,395.94975
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2011,AFR,Africa,ETH,Ethiopia,175.43726,95.38564,380.31945
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2010,AFR,Africa,ETH,Ethiopia,170.76793,72.59113,448.76186
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2000,AFR,Africa,ETH,Ethiopia,329.44041,197.63751,520.93048
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2007,AFR,Africa,ETH,Ethiopia,131.75341,54.16433,358.01123
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2003,AFR,Africa,ETH,Ethiopia,261.72788,88.79695,492.63272
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2008,AFR,Africa,ETH,Ethiopia,111.68134,52.95075,286.40245
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2006,AFR,Africa,ETH,Ethiopia,154.00726,63.92153,438.46257
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2005,AFR,Africa,ETH,Ethiopia,168.56444,72.64608,450.31568
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2004,AFR,Africa,ETH,Ethiopia,247.51070,104.76706,651.00119
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2001,AFR,Africa,ETH,Ethiopia,296.39955,75.73958,563.67295
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2002,AFR,Africa,ETH,Ethiopia,260.09273,73.26524,481.29700
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2017,AFR,Africa,ETH,Ethiopia,89.71423,34.13248,186.19789
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2018,AFR,Africa,ETH,Ethiopia,36.96423,20.39134,55.25853
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2019,AFR,Africa,ETH,Ethiopia,34.08666,18.96698,51.27283
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2020,AFR,Africa,ETH,Ethiopia,53.05247,29.50564,79.88970
+MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),2021,AFR,Africa,ETH,Ethiopia,46.26216,25.59891,69.35493
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2014,AFR,Africa,ETH,Ethiopia,35.18026,6.90314,856.08111
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2013,AFR,Africa,ETH,Ethiopia,40.93468,14.25061,773.14539
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2015,AFR,Africa,ETH,Ethiopia,31.75189,6.53831,774.75009
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2016,AFR,Africa,ETH,Ethiopia,22.76835,5.23590,566.37558
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2012,AFR,Africa,ETH,Ethiopia,32.48329,12.46667,703.75530
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2009,AFR,Africa,ETH,Ethiopia,27.49103,7.52278,839.02550
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2011,AFR,Africa,ETH,Ethiopia,27.66985,10.21667,699.31076
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2010,AFR,Africa,ETH,Ethiopia,31.54823,8.56267,945.97262
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2000,AFR,Africa,ETH,Ethiopia,55.30293,22.62680,1046.14476
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2007,AFR,Africa,ETH,Ethiopia,22.78621,6.10856,738.61535
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2003,AFR,Africa,ETH,Ethiopia,45.82270,13.09763,1009.77723
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2008,AFR,Africa,ETH,Ethiopia,19.36620,5.98815,557.87302
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2006,AFR,Africa,ETH,Ethiopia,28.08825,7.75781,875.84475
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2005,AFR,Africa,ETH,Ethiopia,32.18706,9.47237,976.68581
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2004,AFR,Africa,ETH,Ethiopia,46.56604,13.31494,1418.60670
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2001,AFR,Africa,ETH,Ethiopia,49.75617,10.61276,1120.07318
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2002,AFR,Africa,ETH,Ethiopia,44.67224,9.79681,972.51310
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2017,AFR,Africa,ETH,Ethiopia,16.93519,4.64834,412.99881
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2018,AFR,Africa,ETH,Ethiopia,8.60152,3.07796,169.47679
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2019,AFR,Africa,ETH,Ethiopia,7.35548,2.65322,143.24405
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2020,AFR,Africa,ETH,Ethiopia,11.82585,4.28530,231.99105
+MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),2021,AFR,Africa,ETH,Ethiopia,9.83098,3.57362,193.58968
+MALARIA_INDIG,Number of indigenous malaria cases,2010,AFR,Africa,ETH,Ethiopia,1196829.00000,,
+MALARIA_INDIG,Number of indigenous malaria cases,2011,AFR,Africa,ETH,Ethiopia,1480360.00000,,
+MALARIA_INDIG,Number of indigenous malaria cases,2021,AFR,Africa,ETH,Ethiopia,1396315.00000,,
+MALARIA_INDIG,Number of indigenous malaria cases,2012,AFR,Africa,ETH,Ethiopia,1692578.00000,,
+MALARIA_INDIG,Number of indigenous malaria cases,2020,AFR,Africa,ETH,Ethiopia,1743755.00000,,
+MALARIA_INDIG,Number of indigenous malaria cases,2015,AFR,Africa,ETH,Ethiopia,1867059.00000,,
+MALARIA_INDIG,Number of indigenous malaria cases,2013,AFR,Africa,ETH,Ethiopia,2645454.00000,,
+MALARIA_INDIG,Number of indigenous malaria cases,2019,AFR,Africa,ETH,Ethiopia,904495.00000,,
+MALARIA_INDIG,Number of indigenous malaria cases,2017,AFR,Africa,ETH,Ethiopia,1530739.00000,,
+MALARIA_INDIG,Number of indigenous malaria cases,2016,AFR,Africa,ETH,Ethiopia,1718504.00000,,
+MALARIA_INDIG,Number of indigenous malaria cases,2014,AFR,Africa,ETH,Ethiopia,2118815.00000,,
+MALARIA_INDIG,Number of indigenous malaria cases,2018,AFR,Africa,ETH,Ethiopia,962087.00000,,
+MALARIA_INDIG_STATUS,Status of indigenous malaria cases,2021,AFR,Africa,ETH,Ethiopia,,,
+MALARIA_ITN_COVERAGE,"Population with access to an insecticide-treated bed net (ITN) for malaria protection (%), modelled",2010,AFR,Africa,ETH,Ethiopia,21.68214,,
+MALARIA_ITN_COVERAGE,"Population with access to an insecticide-treated bed net (ITN) for malaria protection (%), modelled",2011,AFR,Africa,ETH,Ethiopia,21.26126,,
+MALARIA_ITN_COVERAGE,"Population with access to an insecticide-treated bed net (ITN) for malaria protection (%), modelled",2021,AFR,Africa,ETH,Ethiopia,14.62783,,
+MALARIA_ITN_COVERAGE,"Population with access to an insecticide-treated bed net (ITN) for malaria protection (%), modelled",2001,AFR,Africa,ETH,Ethiopia,3.32142,,
+MALARIA_ITN_COVERAGE,"Population with access to an insecticide-treated bed net (ITN) for malaria protection (%), modelled",2008,AFR,Africa,ETH,Ethiopia,18.37197,,
+MALARIA_ITN_COVERAGE,"Population with access to an insecticide-treated bed net (ITN) for malaria protection (%), modelled",2012,AFR,Africa,ETH,Ethiopia,12.72536,,
+MALARIA_ITN_COVERAGE,"Population with access to an insecticide-treated bed net (ITN) for malaria protection (%), modelled",2002,AFR,Africa,ETH,Ethiopia,3.40150,,
+MALARIA_ITN_COVERAGE,"Population with access to an insecticide-treated bed net (ITN) for malaria protection (%), modelled",2020,AFR,Africa,ETH,Ethiopia,25.65047,,
+MALARIA_ITN_COVERAGE,"Population with access to an insecticide-treated bed net (ITN) for malaria protection (%), modelled",2000,AFR,Africa,ETH,Ethiopia,2.82320,,
+MALARIA_ITN_COVERAGE,"Population with access to an insecticide-treated bed net (ITN) for malaria protection (%), modelled",2005,AFR,Africa,ETH,Ethiopia,2.48968,,
+MALARIA_ITN_COVERAGE,"Population with access to an insecticide-treated bed net (ITN) for malaria protection (%), modelled",2015,AFR,Africa,ETH,Ethiopia,38.99071,,
+MALARIA_ITN_COVERAGE,"Population with access to an insecticide-treated bed net (ITN) for malaria protection (%), modelled",2013,AFR,Africa,ETH,Ethiopia,20.16791,,
+MALARIA_ITN_COVERAGE,"Population with access to an insecticide-treated bed net (ITN) for malaria protection (%), modelled",2019,AFR,Africa,ETH,Ethiopia,26.24335,,
+MALARIA_ITN_COVERAGE,"Population with access to an insecticide-treated bed net (ITN) for malaria protection (%), modelled",2017,AFR,Africa,ETH,Ethiopia,24.28529,,
+MALARIA_ITN_COVERAGE,"Population with access to an insecticide-treated bed net (ITN) for malaria protection (%), modelled",2007,AFR,Africa,ETH,Ethiopia,24.88815,,
+MALARIA_ITN_COVERAGE,"Population with access to an insecticide-treated bed net (ITN) for malaria protection (%), modelled",2003,AFR,Africa,ETH,Ethiopia,3.32368,,
+MALARIA_ITN_COVERAGE,"Population with access to an insecticide-treated bed net (ITN) for malaria protection (%), modelled",2006,AFR,Africa,ETH,Ethiopia,10.68147,,
+MALARIA_ITN_COVERAGE,"Population with access to an insecticide-treated bed net (ITN) for malaria protection (%), modelled",2016,AFR,Africa,ETH,Ethiopia,34.10086,,
+MALARIA_ITN_COVERAGE,"Population with access to an insecticide-treated bed net (ITN) for malaria protection (%), modelled",2014,AFR,Africa,ETH,Ethiopia,27.80519,,
+MALARIA_ITN_COVERAGE,"Population with access to an insecticide-treated bed net (ITN) for malaria protection (%), modelled",2009,AFR,Africa,ETH,Ethiopia,9.00065,,
+MALARIA_ITN_COVERAGE,"Population with access to an insecticide-treated bed net (ITN) for malaria protection (%), modelled",2004,AFR,Africa,ETH,Ethiopia,2.73515,,
+MALARIA_ITN_COVERAGE,"Population with access to an insecticide-treated bed net (ITN) for malaria protection (%), modelled",2018,AFR,Africa,ETH,Ethiopia,19.11001,,
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2010,AFR,Africa,ETH,Ethiopia,2509543.00000,,
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2011,AFR,Africa,ETH,Ethiopia,3418719.00000,,
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2021,AFR,Africa,ETH,Ethiopia,6625851.00000,,
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2001,AFR,Africa,ETH,Ethiopia,851942.00000,,
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2008,AFR,Africa,ETH,Ethiopia,986323.00000,,
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2012,AFR,Africa,ETH,Ethiopia,3778479.00000,,
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2002,AFR,Africa,ETH,Ethiopia,1115167.00000,,
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2020,AFR,Africa,ETH,Ethiopia,7400644.00000,,
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2005,AFR,Africa,ETH,Ethiopia,1364194.00000,,
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2015,AFR,Africa,ETH,Ethiopia,5679932.00000,,
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2013,AFR,Africa,ETH,Ethiopia,8573335.00000,,
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2019,AFR,Africa,ETH,Ethiopia,6596925.00000,,
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2007,AFR,Africa,ETH,Ethiopia,739627.00000,,
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2017,AFR,Africa,ETH,Ethiopia,6246949.00000,,
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2003,AFR,Africa,ETH,Ethiopia,1010925.00000,,
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2006,AFR,Africa,ETH,Ethiopia,785209.00000,,
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2016,AFR,Africa,ETH,Ethiopia,6367309.00000,,
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2009,AFR,Africa,ETH,Ethiopia,2065237.00000,,
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2014,AFR,Africa,ETH,Ethiopia,7062717.00000,,
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2004,AFR,Africa,ETH,Ethiopia,1312422.00000,,
+MALARIA_MICR_TEST,Number of malaria suspects examined by microscopy,2018,AFR,Africa,ETH,Ethiopia,5668995.00000,,
+MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,2018,AFR,Africa,ETH,Ethiopia,859675.00000,,
+MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,2014,AFR,Africa,ETH,Ethiopia,1250110.00000,,
+MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,2016,AFR,Africa,ETH,Ethiopia,1142235.00000,,
+MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,2017,AFR,Africa,ETH,Ethiopia,1059847.00000,,
+MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,2019,AFR,Africa,ETH,Ethiopia,738155.00000,,
+MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,2013,AFR,Africa,ETH,Ethiopia,1687163.00000,,
+MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,2015,AFR,Africa,ETH,Ethiopia,1188627.00000,,
+MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,2020,AFR,Africa,ETH,Ethiopia,1340869.00000,,
+MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,2012,AFR,Africa,ETH,Ethiopia,946595.00000,,
+MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,2021,AFR,Africa,ETH,Ethiopia,912075.00000,,
+MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,2011,AFR,Africa,ETH,Ethiopia,814547.00000,,
+MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,2010,AFR,Africa,ETH,Ethiopia,732776.00000,,
+MALARIA_PRES_CASES,Number of presumed malaria cases,2010,AFR,Africa,ETH,Ethiopia,2910567.00000,,
+MALARIA_PRES_CASES,Number of presumed malaria cases,2011,AFR,Africa,ETH,Ethiopia,2069253.00000,,
+MALARIA_PRES_CASES,Number of presumed malaria cases,2021,AFR,Africa,ETH,Ethiopia,90607.00000,,
+MALARIA_PRES_CASES,Number of presumed malaria cases,2001,AFR,Africa,ETH,Ethiopia,2162937.00000,,
+MALARIA_PRES_CASES,Number of presumed malaria cases,2008,AFR,Africa,ETH,Ethiopia,2074084.00000,,
+MALARIA_PRES_CASES,Number of presumed malaria cases,2012,AFR,Africa,ETH,Ethiopia,2184167.00000,,
+MALARIA_PRES_CASES,Number of presumed malaria cases,2002,AFR,Africa,ETH,Ethiopia,2501889.00000,,
+MALARIA_PRES_CASES,Number of presumed malaria cases,2020,AFR,Africa,ETH,Ethiopia,104476.00000,,
+MALARIA_PRES_CASES,Number of presumed malaria cases,2005,AFR,Africa,ETH,Ethiopia,3363015.00000,,
+MALARIA_PRES_CASES,Number of presumed malaria cases,2015,AFR,Africa,ETH,Ethiopia,307648.00000,,
+MALARIA_PRES_CASES,Number of presumed malaria cases,2013,AFR,Africa,ETH,Ethiopia,670559.00000,,
+MALARIA_PRES_CASES,Number of presumed malaria cases,2019,AFR,Africa,ETH,Ethiopia,111297.00000,,
+MALARIA_PRES_CASES,Number of presumed malaria cases,2007,AFR,Africa,ETH,Ethiopia,2105336.00000,,
+MALARIA_PRES_CASES,Number of presumed malaria cases,2017,AFR,Africa,ETH,Ethiopia,225009.00000,,
+MALARIA_PRES_CASES,Number of presumed malaria cases,2003,AFR,Africa,ETH,Ethiopia,3118300.00000,,
+MALARIA_PRES_CASES,Number of presumed malaria cases,2006,AFR,Africa,ETH,Ethiopia,2590785.00000,,
+MALARIA_PRES_CASES,Number of presumed malaria cases,2016,AFR,Africa,ETH,Ethiopia,244492.00000,,
+MALARIA_PRES_CASES,Number of presumed malaria cases,2014,AFR,Africa,ETH,Ethiopia,395048.00000,,
+MALARIA_PRES_CASES,Number of presumed malaria cases,2009,AFR,Africa,ETH,Ethiopia,2458303.00000,,
+MALARIA_PRES_CASES,Number of presumed malaria cases,2004,AFR,Africa,ETH,Ethiopia,4591710.00000,,
+MALARIA_PRES_CASES,Number of presumed malaria cases,2018,AFR,Africa,ETH,Ethiopia,244804.00000,,
+MALARIA_RDT_TEST,Number of malaria suspects examined by rapid diagnostic test (RDT),2009,AFR,Africa,ETH,Ethiopia,262877.00000,,
+MALARIA_SUSPECTS,Number of suspected malaria cases,2010,AFR,Africa,ETH,Ethiopia,5420110.00000,,
+MALARIA_SUSPECTS,Number of suspected malaria cases,2011,AFR,Africa,ETH,Ethiopia,5487972.00000,,
+MALARIA_SUSPECTS,Number of suspected malaria cases,2021,AFR,Africa,ETH,Ethiopia,6716458.00000,,
+MALARIA_SUSPECTS,Number of suspected malaria cases,2001,AFR,Africa,ETH,Ethiopia,3014879.00000,,
+MALARIA_SUSPECTS,Number of suspected malaria cases,2008,AFR,Africa,ETH,Ethiopia,3060407.00000,,
+MALARIA_SUSPECTS,Number of suspected malaria cases,2012,AFR,Africa,ETH,Ethiopia,5962646.00000,,
+MALARIA_SUSPECTS,Number of suspected malaria cases,2002,AFR,Africa,ETH,Ethiopia,3617056.00000,,
+MALARIA_SUSPECTS,Number of suspected malaria cases,2020,AFR,Africa,ETH,Ethiopia,7509602.00000,,
+MALARIA_SUSPECTS,Number of suspected malaria cases,2005,AFR,Africa,ETH,Ethiopia,4727209.00000,,
+MALARIA_SUSPECTS,Number of suspected malaria cases,2015,AFR,Africa,ETH,Ethiopia,5987580.00000,,
+MALARIA_SUSPECTS,Number of suspected malaria cases,2013,AFR,Africa,ETH,Ethiopia,9243894.00000,,
+MALARIA_SUSPECTS,Number of suspected malaria cases,2019,AFR,Africa,ETH,Ethiopia,6708222.00000,,
+MALARIA_SUSPECTS,Number of suspected malaria cases,2007,AFR,Africa,ETH,Ethiopia,2844963.00000,,
+MALARIA_SUSPECTS,Number of suspected malaria cases,2017,AFR,Africa,ETH,Ethiopia,6471958.00000,,
+MALARIA_SUSPECTS,Number of suspected malaria cases,2003,AFR,Africa,ETH,Ethiopia,4129225.00000,,
+MALARIA_SUSPECTS,Number of suspected malaria cases,2006,AFR,Africa,ETH,Ethiopia,3375994.00000,,
+MALARIA_SUSPECTS,Number of suspected malaria cases,2016,AFR,Africa,ETH,Ethiopia,6611801.00000,,
+MALARIA_SUSPECTS,Number of suspected malaria cases,2014,AFR,Africa,ETH,Ethiopia,7457765.00000,,
+MALARIA_SUSPECTS,Number of suspected malaria cases,2009,AFR,Africa,ETH,Ethiopia,4786417.00000,,
+MALARIA_SUSPECTS,Number of suspected malaria cases,2004,AFR,Africa,ETH,Ethiopia,5904132.00000,,
+MALARIA_SUSPECTS,Number of suspected malaria cases,2018,AFR,Africa,ETH,Ethiopia,5913799.00000,,
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2018,AFR,Africa,ETH,Ethiopia,1206891.00000,,
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2004,AFR,Africa,ETH,Ethiopia,5170614.00000,,
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2009,AFR,Africa,ETH,Ethiopia,3494619.00000,,
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2014,AFR,Africa,ETH,Ethiopia,2513863.00000,,
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2016,AFR,Africa,ETH,Ethiopia,1962996.00000,,
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2006,AFR,Africa,ETH,Ethiopia,3038565.00000,,
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2003,AFR,Africa,ETH,Ethiopia,3582097.00000,,
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2007,AFR,Africa,ETH,Ethiopia,2557152.00000,,
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2017,AFR,Africa,ETH,Ethiopia,1755748.00000,,
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2019,AFR,Africa,ETH,Ethiopia,1015792.00000,,
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2013,AFR,Africa,ETH,Ethiopia,3316013.00000,,
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2015,AFR,Africa,ETH,Ethiopia,2174707.00000,,
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2005,AFR,Africa,ETH,Ethiopia,3901957.00000,,
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2020,AFR,Africa,ETH,Ethiopia,1848231.00000,,
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2002,AFR,Africa,ETH,Ethiopia,2929684.00000,,
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2012,AFR,Africa,ETH,Ethiopia,3876745.00000,,
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2008,AFR,Africa,ETH,Ethiopia,2532645.00000,,
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2001,AFR,Africa,ETH,Ethiopia,2555314.00000,,
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2021,AFR,Africa,ETH,Ethiopia,1487758.00000,,
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2011,AFR,Africa,ETH,Ethiopia,3549613.00000,,
+MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),2010,AFR,Africa,ETH,Ethiopia,4107396.00000,,
+
